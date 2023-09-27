@@ -1,2 +1,2 @@
 # TpGit
-Firts DevOps initialistion
+Firts DevOps initialistions
