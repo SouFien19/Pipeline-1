@@ -1,0 +1,11 @@
+.mon-div {
+    background-color: #007bff; /* Couleur de fond bleue */
+    color: #fff; /* Couleur du texte blanche */
+    padding: 20px; /* Espacement intérieur de 20 pixels */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Ombre légère */
+    text-align: center; /* Alignement du texte au centre */
+    font-size: 18px; /* Taille de police */
+    font-weight: bold; /* Gras */
+}
+
